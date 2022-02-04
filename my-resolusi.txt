@@ -3,4 +3,4 @@ my resolusi
 -get a new job
 -upgrade skill programming
 -belajar laravel
--belajar
+-upload video youtube
