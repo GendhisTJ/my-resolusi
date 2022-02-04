@@ -2,3 +2,5 @@ my resolusi
 -upgrade cv
 -get a new job
 -upgrade skill programming
+-belajar laravel
+-belajar
